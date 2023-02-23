@@ -105,3 +105,20 @@ a {
     color-scheme: dark;
   }
 }
+
+input{
+  margin: 20px;
+  padding: 10px 30px;
+  font-size: 12px;
+}
+
+button{
+  color: white;
+  background-color: rgb(103, 103, 230);
+  padding: 10px 20px;
+  font-size: 14px;
+  border-radius: 10px;
+}
+button:hover{
+  transform: translateY(-5px);
+}
